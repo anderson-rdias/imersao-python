@@ -1,4 +1,4 @@
-# Passo 0 - Entender o objetivo proposto
+# Passo 00 - Entender o objetivo proposto
 # Passo 1 - Entrar no sistema da empresa
     # Link: https://dlp.hashtagtreinamentos.com/python/intensivao/login
 # Passo 2 - Fazer login
